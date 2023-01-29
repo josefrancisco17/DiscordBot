@@ -43,4 +43,4 @@ class MyBot(commands.Bot):
 
 
 bot = MyBot()
-bot.run("MTA2NzkzMjM3NjQwOTMyNTU4OA.G2fsLA.Q8PVqhu2GtIyj-QcS6fk9YE5MlKpcNrtas3SvU")
+bot.run(TOKEN)
